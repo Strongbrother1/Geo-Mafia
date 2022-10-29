@@ -2,5 +2,8 @@
     "type": "module",
     "dependencies": {
         "firebase": "^9.12.1"
+    },
+    "scripts": {
+        "build": "demo.js"
     }
 }
