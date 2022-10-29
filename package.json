@@ -4,6 +4,6 @@
         "firebase": "^9.12.1"
     },
     "scripts": {
-        "build": "firebase/demo/demo.js"
+        "build": "react-scripts build"
     }
 }
