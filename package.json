@@ -2,6 +2,9 @@
     "type": "module",
     "dependencies": {
         "firebase": "^9.12.1"
+    },
+    
+    "scripts": {
+        "build": "webpack --config=Scripts/config/webpack.prod.js",
     }
-   
 }
