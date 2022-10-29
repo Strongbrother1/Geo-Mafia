@@ -2,8 +2,5 @@
     "type": "module",
     "dependencies": {
         "firebase": "^9.12.1"
-    },
-    "scripts": {
-        "build": "react-scripts build"
     }
 }
