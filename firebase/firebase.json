@@ -13,7 +13,4 @@
       }
     ]
   }
-  "scripts": {
-    "build": "demo/demo.js"
-  }
 }
