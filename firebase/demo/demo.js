@@ -8,7 +8,7 @@ const firebaseConfig = {
   // The value of `databaseURL` depends on the location of the database
   databaseURL: "https://geo-mafia-default-rtdb.firebaseio.com/",
 };
-
+// Test
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
